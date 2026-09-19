@@ -31,7 +31,7 @@
 
 ### 📬 Contacto
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com)
+- **LinkedIn:** [Tu Perfil de LinkedIn]([(https://www.linkedin.com/in/fernando-zapechkozoki-123953437/))
 - **Email:** fzape069@gmail.com
 
 ---
